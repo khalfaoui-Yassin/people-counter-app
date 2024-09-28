@@ -1,0 +1,56 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-image: url("closeupbrightbluewater-61f0f88d81004729a7385484bcd38998.jpg");
+    background-size: cover;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+
+
+
+
+}
+.p{
+padding-top: 100PX;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: 50px;
+
+}
+.o{
+    padding-top: 20px;
+    font-size: 40px;
+}
+
+#inc{
+    width: 200px;
+    height: 50px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: rgb(239, 237, 237);
+    background-color: rgb(4, 4, 4);
+
+}
+div{
+    padding-top: 20px;
+}
+#save{
+    width: 200px;
+    height: 50px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: rgb(239, 237, 237);
+    background-color: rgb(16, 236, 52);
+
+}
+#effacer{
+    width: 200px;
+    height: 50px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: rgb(239, 237, 237);
+    background-color: rgb(245, 7, 7);
+
+}
+
